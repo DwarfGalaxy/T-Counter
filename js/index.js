@@ -3,7 +3,7 @@ let gethours = document.getElementById("hours");
 let getminutes = document.getElementById("minutes");
 let getseconds = document.getElementById("seconds");
 
-let deadline = new Date("Mar 27,2024 23:59:59").getTime();
+let deadline = new Date("Mar 25,2024 23:59:59").getTime();
 
 
 let showTime = setInterval(() => {
